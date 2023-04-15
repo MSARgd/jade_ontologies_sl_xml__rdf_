@@ -20,7 +20,6 @@ public class BuyerAgentSL extends Agent {
         ACLMessage receivedMessage = blockingReceive(messageTemplate);
         try {
             Disponible disponible = (Disponible)getContentManager().extractContent(receivedMessage);
-//                System.out.println(disponible);
             System.out.println(receivedMessage);
         } catch (Codec.CodecException e) {
             e.printStackTrace();
