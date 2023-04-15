@@ -1,4 +1,4 @@
-package ma.enset.sma.versionSL;
+package ma.enset.sma;
 
 import jade.content.AgentAction;
 import jade.core.AID;

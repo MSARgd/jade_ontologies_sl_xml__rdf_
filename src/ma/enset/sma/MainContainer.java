@@ -1,4 +1,4 @@
-package ma.enset.sma.versionSL;
+package ma.enset.sma;
 import jade.core.ProfileImpl;
 import jade.core.Runtime;
 import jade.wrapper.AgentContainer;

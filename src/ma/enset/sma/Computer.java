@@ -1,4 +1,4 @@
-package ma.enset.sma.versionSL;
+package ma.enset.sma;
 
 public class Computer extends Product {
     private float ram;

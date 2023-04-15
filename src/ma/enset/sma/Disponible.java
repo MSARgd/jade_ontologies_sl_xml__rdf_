@@ -1,4 +1,4 @@
-package ma.enset.sma.versionSL;
+package ma.enset.sma;
 import jade.content.Predicate;
 import jade.core.AID;
 public class Disponible implements Predicate {

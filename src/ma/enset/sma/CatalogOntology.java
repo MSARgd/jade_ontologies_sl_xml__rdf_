@@ -1,4 +1,4 @@
-package ma.enset.sma.versionSL;
+package ma.enset.sma;
 import jade.content.onto.BasicOntology;
 import jade.content.onto.Ontology;
 import jade.content.schema.*;

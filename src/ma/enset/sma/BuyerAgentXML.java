@@ -1,4 +1,4 @@
-package ma.enset.sma.versionSL;
+package ma.enset.sma;
 import jade.content.lang.Codec;
 import jade.content.lang.xml.XMLCodec;
 import jade.content.onto.Ontology;
